@@ -200,12 +200,12 @@ Need to look at **WHAT** they spend on, not just how much.
 - `SOW_type_colr` → Segmented buckets
 
 ### Expected Pattern
-| SOW Segment | Conversion Rate | Why |
-|-------------|----------------|-----|
-| 0-20% | Low | Not engaged enough |
-| 30-60% | **High** | Trust + openness |
-| 70-90% | Medium | Established habits |
-| 90-100% | Low | Ultra-routine, no exploration |
+| SOW Segment | Conversion Rate | Why                          |
+|-------------|----------------|-------------------------------|
+| 0-20%       | Low            | Not engaged enough            |
+| 30-60%      | **High**       | Trust + openness              |
+| 70-90%      | Medium         | Established habits            |
+| 90-100%     | Low            | Ultra-routine, no exploration |
 
 ### The Psychological Insight
 **Outlier_fr** customers (100%+ SOW) might be:
